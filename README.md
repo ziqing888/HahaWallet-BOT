@@ -1,6 +1,9 @@
 # Haha Wallet
 
-
+- 注册请点击：[HAHA Wallet](https://join.haha.me/Z-XRUJPR)
+- 下载扩展程序
+- 使用电子邮件注册
+- 保存种子短语
 
 ## 概述
 
